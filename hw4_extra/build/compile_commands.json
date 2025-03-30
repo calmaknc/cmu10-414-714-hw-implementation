@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/njj/dlsys/hw4_extra/build",
+  "command": "/usr/bin/g++-10 -Dndarray_backend_cpu_EXPORTS -isystem /usr/include/python3.10 -isystem /home/njj/anaconda3/lib/python3.12/site-packages/pybind11/include -isystem /usr/local/cuda/include -std=c++11 -O2 -march=native  -g -fPIC -fvisibility=hidden -o CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o -c /home/njj/dlsys/hw4_extra/src/ndarray_backend_cpu.cc",
+  "file": "/home/njj/dlsys/hw4_extra/src/ndarray_backend_cpu.cc"
+}
+]

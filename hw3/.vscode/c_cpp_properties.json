@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/njj/anaconda3/envs/dlsys/lib/python3.13/site-packages/pybind11/include",
+                "/usr/include/python3.10"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc-10",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
